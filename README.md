@@ -1,4 +1,4 @@
-![1](https://github.com/ma-github-account/Georgian-Cities-Portal/assets/89083426/d919e3a2-94fe-493d-9927-6eb48ff3b69b)This application is a portal about Georgian cities. It displays a map of Georgia with markers for major cities. Clicking on a marker results in city details and photo display. Cities are added via Admin panel.
+This application is a portal about Georgian cities. It displays a map of Georgia with markers for major cities. Clicking on a marker results in city details and photo display. Cities are added via Admin panel.
 
 Prerequisites:
 
@@ -16,39 +16,19 @@ How to run: 1.python manage.py makemigrations 2.python manage.py migrate 3.Addin
 
 
 
-![1](https://github.com/ma-github-account/Georgian-Cities-Portal/assets/89083426/650df092-9868-429b-afa9-d207643c75a3)
+![1](https://github.com/ma-github-account/Georgian-Cities-Portal/assets/89083426/ba4916c9-3aae-4c9c-b14d-f83f32a064e3)
 
 
-
-![2](https://github.com/ma-github-account/Georgian-Cities-Portal/assets/89083426/9fb8eeff-b8d5-4807-8488-127ec5b2779f)
-
+![2](https://github.com/ma-github-account/Georgian-Cities-Portal/assets/89083426/2c7975a8-625d-4436-90bb-173587d6b19a)
 
 
-
-![3](https://github.com/ma-github-account/Georgian-Cities-Portal/assets/89083426/d961c6a7-c9c1-4a84-8eb6-f44d7506368a)
-
+![3](https://github.com/ma-github-account/Georgian-Cities-Portal/assets/89083426/be103157-a211-4d88-98d2-e9c2cbf8525c)
 
 
-
-![4](https://github.com/ma-github-account/Georgian-Cities-Portal/assets/89083426/27223c68-38e0-4679-baca-0585fc75c996)
-
+![4](https://github.com/ma-github-account/Georgian-Cities-Portal/assets/89083426/b8f7aa08-37ab-4f49-8091-be9a5b9a855c)
 
 
-
-![5](https://github.com/ma-github-account/Georgian-Cities-Portal/assets/89083426/7dfcdc47-b1d7-4919-8620-34043333cf8a)
-
-
-
-
-
-
-
-
-
-
-
-
-
+![5](https://github.com/ma-github-account/Georgian-Cities-Portal/assets/89083426/0148879d-e8aa-4201-81c3-8e87f8234f0a)
 
 
 
